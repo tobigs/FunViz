@@ -2,7 +2,7 @@
 
 #### For multiple calculation the expected growth rate is used<br/>
 Current Year to (Curren Year + 2 Years)<br/>
-#### In case there is no earnings forecast, the time frame is from two years in the past to the current year<br/>
+#### In case there is no earnings forecast, the growth rate of the last two years is used<br/>
 (Current Year - 2 Years) to Current Year
 
 ## Base
