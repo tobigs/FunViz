@@ -1,8 +1,8 @@
 # FunViz - Style Description 
 
-For multiple calculation the expected growth rate is used.<br/>
+#### For multiple calculation the expected growth rate is used.<br/>
 Time Frame: Current Year to (Curren Year + 2 Years)<br/>
-In case there is no earnings forecast, the time frame is from two years in the past to the current year.<br/>
+#### In case there is no earnings forecast, the time frame is from two years in the past to the current year.<br/>
 Time Frame: (Current Year - 2 Years) to Current Year
 
 ## Base
