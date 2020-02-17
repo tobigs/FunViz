@@ -7,15 +7,15 @@ Current Year to (Curren Year + 2 Years)<br/>
 
 ## Base
 #### Plots earnings per share, normal multiple, dividend, stock price
-If exp. growth rate < 15% --> Earnings Multiple = 15<br/>
-If exp. growth rate > 15% --> Earnings Multiple = exp. growth rate
+If exp. growth rate < 15% -> Earnings Multiple = 15<br/>
+If exp. growth rate > 15% -> Earnings Multiple = exp. growth rate
 ## PE(15)
 #### Analogous to Base
 Earnings Multiple = 15<br/>
 ## PEG(8.5)
 #### Analogous to Base, inspired by the Benjamin Graham formula
-If exp. growth rate < 0% --> Earnings Multiple = 8.5<br/>
-If exp. growth rate > 0% --> Earnings Multiple = exp. growth rate + 8.5
+If exp. growth rate < 0% -> Earnings Multiple = 8.5<br/>
+If exp. growth rate > 0% -> Earnings Multiple = exp. growth rate + 8.5
 ## PE-Plot
 #### Plots the PE-Ratio over the last 10 years
 ## FFO/OCF
