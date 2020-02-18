@@ -1,3 +1,5 @@
+# How To Use
+![GUI Connected](https://github.com/tobigs/FunViz/blob/master/FunViz_example.gif)
 # FunViz - Style Description 
 
 #### For multiple calculation the expected growth rate is used<br/>
